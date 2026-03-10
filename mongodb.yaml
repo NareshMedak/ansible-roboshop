@@ -11,5 +11,4 @@
     ansible.builtin.dnf:
       name: mongodb-org
       state: present
-  
  
